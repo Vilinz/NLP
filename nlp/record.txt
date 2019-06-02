@@ -1,0 +1,866 @@
+----- Epoch 1/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 100 -- Loss 4.99 -- Perplexity 146.67
+----- Step 200 -- Loss 5.10 -- Perplexity 164.52
+----- Step 300 -- Loss 5.06 -- Perplexity 157.83
+----- Step 400 -- Loss 4.96 -- Perplexity 142.05
+----- Step 500 -- Loss 5.02 -- Perplexity 151.78
+----- Step 600 -- Loss 4.82 -- Perplexity 124.07
+----- Step 700 -- Loss 4.86 -- Perplexity 128.72
+----- Step 800 -- Loss 4.45 -- Perplexity 85.61
+----- Step 900 -- Loss 4.59 -- Perplexity 98.80
+----- Step 1000 -- Loss 4.32 -- Perplexity 74.95
+----- Step 1100 -- Loss 4.07 -- Perplexity 58.27
+----- Step 1200 -- Loss 4.38 -- Perplexity 80.08
+Epoch finished in 0:09:32.458697
+
+----- Epoch 2/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 1300 -- Loss 3.96 -- Perplexity 52.20
+----- Step 1400 -- Loss 4.24 -- Perplexity 69.07
+----- Step 1500 -- Loss 4.04 -- Perplexity 56.98
+----- Step 1600 -- Loss 4.08 -- Perplexity 59.26
+----- Step 1700 -- Loss 3.92 -- Perplexity 50.42
+----- Step 1800 -- Loss 3.79 -- Perplexity 44.33
+----- Step 1900 -- Loss 3.93 -- Perplexity 51.13
+----- Step 2000 -- Loss 3.76 -- Perplexity 42.82
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 2100 -- Loss 3.82 -- Perplexity 45.43
+----- Step 2200 -- Loss 3.86 -- Perplexity 47.48
+----- Step 2300 -- Loss 3.69 -- Perplexity 40.15
+----- Step 2400 -- Loss 3.83 -- Perplexity 46.22
+Epoch finished in 0:09:33.493937
+
+----- Epoch 3/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 2500 -- Loss 3.77 -- Perplexity 43.50
+----- Step 2600 -- Loss 3.62 -- Perplexity 37.34
+----- Step 2700 -- Loss 3.62 -- Perplexity 37.20
+----- Step 2800 -- Loss 3.74 -- Perplexity 42.22
+----- Step 2900 -- Loss 3.74 -- Perplexity 42.10
+----- Step 3000 -- Loss 3.65 -- Perplexity 38.59
+----- Step 3100 -- Loss 3.70 -- Perplexity 40.44
+----- Step 3200 -- Loss 3.68 -- Perplexity 39.75
+----- Step 3300 -- Loss 3.63 -- Perplexity 37.75
+----- Step 3400 -- Loss 3.69 -- Perplexity 40.21
+----- Step 3500 -- Loss 3.64 -- Perplexity 38.17
+----- Step 3600 -- Loss 3.71 -- Perplexity 41.02
+----- Step 3700 -- Loss 3.64 -- Perplexity 38.02
+Epoch finished in 0:09:28.066282
+
+----- Epoch 4/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 3800 -- Loss 3.56 -- Perplexity 35.22
+----- Step 3900 -- Loss 3.55 -- Perplexity 34.72
+----- Step 4000 -- Loss 3.52 -- Perplexity 33.74
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 4100 -- Loss 3.58 -- Perplexity 35.72
+----- Step 4200 -- Loss 3.65 -- Perplexity 38.42
+----- Step 4300 -- Loss 3.69 -- Perplexity 40.11
+----- Step 4400 -- Loss 3.53 -- Perplexity 33.96
+----- Step 4500 -- Loss 3.59 -- Perplexity 36.11
+----- Step 4600 -- Loss 3.62 -- Perplexity 37.26
+----- Step 4700 -- Loss 3.45 -- Perplexity 31.50
+----- Step 4800 -- Loss 3.63 -- Perplexity 37.53
+----- Step 4900 -- Loss 3.51 -- Perplexity 33.48
+Epoch finished in 0:09:32.739083
+
+----- Epoch 5/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 5000 -- Loss 3.56 -- Perplexity 35.04
+----- Step 5100 -- Loss 3.55 -- Perplexity 34.97
+----- Step 5200 -- Loss 3.47 -- Perplexity 32.10
+----- Step 5300 -- Loss 3.51 -- Perplexity 33.61
+----- Step 5400 -- Loss 3.49 -- Perplexity 32.69
+----- Step 5500 -- Loss 3.55 -- Perplexity 34.96
+----- Step 5600 -- Loss 3.46 -- Perplexity 31.97
+----- Step 5700 -- Loss 3.52 -- Perplexity 33.69
+----- Step 5800 -- Loss 3.42 -- Perplexity 30.58
+----- Step 5900 -- Loss 3.59 -- Perplexity 36.06
+----- Step 6000 -- Loss 3.39 -- Perplexity 29.77
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 6100 -- Loss 3.49 -- Perplexity 32.76
+----- Step 6200 -- Loss 3.60 -- Perplexity 36.43
+Epoch finished in 0:09:32.280442
+
+----- Epoch 6/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 6300 -- Loss 3.41 -- Perplexity 30.13
+----- Step 6400 -- Loss 3.56 -- Perplexity 34.99
+----- Step 6500 -- Loss 3.29 -- Perplexity 26.96
+----- Step 6600 -- Loss 3.45 -- Perplexity 31.64
+----- Step 6700 -- Loss 3.55 -- Perplexity 34.84
+----- Step 6800 -- Loss 3.33 -- Perplexity 27.92
+----- Step 6900 -- Loss 3.40 -- Perplexity 30.07
+----- Step 7000 -- Loss 3.41 -- Perplexity 30.39
+----- Step 7100 -- Loss 3.30 -- Perplexity 27.14
+----- Step 7200 -- Loss 3.55 -- Perplexity 34.78
+----- Step 7300 -- Loss 3.45 -- Perplexity 31.49
+----- Step 7400 -- Loss 3.36 -- Perplexity 28.67
+Epoch finished in 0:09:28.590748
+
+----- Epoch 7/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 7500 -- Loss 3.22 -- Perplexity 25.08
+----- Step 7600 -- Loss 3.43 -- Perplexity 30.99
+----- Step 7700 -- Loss 3.33 -- Perplexity 27.93
+----- Step 7800 -- Loss 3.31 -- Perplexity 27.37
+----- Step 7900 -- Loss 3.43 -- Perplexity 30.94
+----- Step 8000 -- Loss 3.36 -- Perplexity 28.76
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 8100 -- Loss 3.28 -- Perplexity 26.45
+----- Step 8200 -- Loss 3.31 -- Perplexity 27.40
+----- Step 8300 -- Loss 3.44 -- Perplexity 31.13
+----- Step 8400 -- Loss 3.42 -- Perplexity 30.66
+----- Step 8500 -- Loss 3.31 -- Perplexity 27.32
+----- Step 8600 -- Loss 3.36 -- Perplexity 28.78
+----- Step 8700 -- Loss 3.32 -- Perplexity 27.60
+Epoch finished in 0:09:31.749598
+
+----- Epoch 8/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 8800 -- Loss 3.33 -- Perplexity 27.86
+----- Step 8900 -- Loss 3.15 -- Perplexity 23.40
+----- Step 9000 -- Loss 3.28 -- Perplexity 26.45
+----- Step 9100 -- Loss 3.13 -- Perplexity 22.97
+----- Step 9200 -- Loss 3.24 -- Perplexity 25.50
+----- Step 9300 -- Loss 3.34 -- Perplexity 28.31
+----- Step 9400 -- Loss 3.29 -- Perplexity 26.86
+----- Step 9500 -- Loss 3.32 -- Perplexity 27.54
+----- Step 9600 -- Loss 3.47 -- Perplexity 32.06
+----- Step 9700 -- Loss 3.13 -- Perplexity 22.89
+----- Step 9800 -- Loss 3.28 -- Perplexity 26.66
+----- Step 9900 -- Loss 3.24 -- Perplexity 25.58
+Epoch finished in 0:09:27.453078
+
+----- Epoch 9/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 10000 -- Loss 3.21 -- Perplexity 24.66
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 10100 -- Loss 3.10 -- Perplexity 22.22
+----- Step 10200 -- Loss 3.32 -- Perplexity 27.77
+----- Step 10300 -- Loss 3.19 -- Perplexity 24.24
+----- Step 10400 -- Loss 3.17 -- Perplexity 23.90
+----- Step 10500 -- Loss 3.20 -- Perplexity 24.59
+----- Step 10600 -- Loss 3.15 -- Perplexity 23.29
+----- Step 10700 -- Loss 3.31 -- Perplexity 27.32
+----- Step 10800 -- Loss 3.10 -- Perplexity 22.15
+----- Step 10900 -- Loss 3.18 -- Perplexity 24.16
+----- Step 11000 -- Loss 3.21 -- Perplexity 24.67
+----- Step 11100 -- Loss 3.28 -- Perplexity 26.45
+----- Step 11200 -- Loss 3.16 -- Perplexity 23.48
+Epoch finished in 0:09:32.706420
+
+----- Epoch 10/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 11300 -- Loss 2.97 -- Perplexity 19.54
+----- Step 11400 -- Loss 3.04 -- Perplexity 20.91
+----- Step 11500 -- Loss 3.11 -- Perplexity 22.35
+----- Step 11600 -- Loss 3.19 -- Perplexity 24.32
+----- Step 11700 -- Loss 3.23 -- Perplexity 25.36
+----- Step 11800 -- Loss 3.08 -- Perplexity 21.75
+----- Step 11900 -- Loss 3.18 -- Perplexity 24.06
+----- Step 12000 -- Loss 3.00 -- Perplexity 20.14
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 12100 -- Loss 3.16 -- Perplexity 23.56
+----- Step 12200 -- Loss 3.13 -- Perplexity 22.86
+----- Step 12300 -- Loss 3.06 -- Perplexity 21.32
+----- Step 12400 -- Loss 3.14 -- Perplexity 23.06
+Epoch finished in 0:09:33.047898
+
+----- Epoch 11/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 12500 -- Loss 3.05 -- Perplexity 21.01
+----- Step 12600 -- Loss 2.93 -- Perplexity 18.69
+----- Step 12700 -- Loss 2.88 -- Perplexity 17.90
+----- Step 12800 -- Loss 2.99 -- Perplexity 19.82
+----- Step 12900 -- Loss 3.05 -- Perplexity 21.17
+----- Step 13000 -- Loss 3.09 -- Perplexity 21.88
+----- Step 13100 -- Loss 3.04 -- Perplexity 20.81
+----- Step 13200 -- Loss 2.96 -- Perplexity 19.26
+----- Step 13300 -- Loss 2.92 -- Perplexity 18.59
+----- Step 13400 -- Loss 3.23 -- Perplexity 25.27
+----- Step 13500 -- Loss 3.11 -- Perplexity 22.42
+----- Step 13600 -- Loss 3.31 -- Perplexity 27.43
+----- Step 13700 -- Loss 3.23 -- Perplexity 25.21
+Epoch finished in 0:09:28.953941
+
+----- Epoch 12/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 13800 -- Loss 3.05 -- Perplexity 21.04
+----- Step 13900 -- Loss 3.00 -- Perplexity 20.02
+----- Step 14000 -- Loss 3.04 -- Perplexity 20.92
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 14100 -- Loss 2.90 -- Perplexity 18.09
+----- Step 14200 -- Loss 3.07 -- Perplexity 21.61
+----- Step 14300 -- Loss 2.93 -- Perplexity 18.68
+----- Step 14400 -- Loss 3.05 -- Perplexity 21.12
+----- Step 14500 -- Loss 3.03 -- Perplexity 20.76
+----- Step 14600 -- Loss 3.08 -- Perplexity 21.69
+----- Step 14700 -- Loss 3.06 -- Perplexity 21.28
+----- Step 14800 -- Loss 3.16 -- Perplexity 23.53
+----- Step 14900 -- Loss 3.01 -- Perplexity 20.23
+Epoch finished in 0:09:32.640794
+
+----- Epoch 13/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 15000 -- Loss 2.98 -- Perplexity 19.70
+----- Step 15100 -- Loss 2.95 -- Perplexity 19.16
+----- Step 15200 -- Loss 2.93 -- Perplexity 18.71
+----- Step 15300 -- Loss 3.10 -- Perplexity 22.09
+----- Step 15400 -- Loss 2.99 -- Perplexity 19.85
+----- Step 15500 -- Loss 3.07 -- Perplexity 21.48
+----- Step 15600 -- Loss 3.06 -- Perplexity 21.35
+----- Step 15700 -- Loss 3.07 -- Perplexity 21.53
+----- Step 15800 -- Loss 3.16 -- Perplexity 23.66
+----- Step 15900 -- Loss 3.19 -- Perplexity 24.30
+----- Step 16000 -- Loss 2.94 -- Perplexity 19.01
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 16100 -- Loss 3.02 -- Perplexity 20.57
+----- Step 16200 -- Loss 2.99 -- Perplexity 19.96
+Epoch finished in 0:09:33.124997
+
+----- Epoch 14/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 16300 -- Loss 2.84 -- Perplexity 17.09
+----- Step 16400 -- Loss 2.96 -- Perplexity 19.36
+----- Step 16500 -- Loss 2.77 -- Perplexity 16.04
+----- Step 16600 -- Loss 2.88 -- Perplexity 17.86
+----- Step 16700 -- Loss 3.00 -- Perplexity 20.11
+----- Step 16800 -- Loss 3.01 -- Perplexity 20.26
+----- Step 16900 -- Loss 3.06 -- Perplexity 21.30
+----- Step 17000 -- Loss 2.84 -- Perplexity 17.10
+----- Step 17100 -- Loss 3.00 -- Perplexity 20.15
+----- Step 17200 -- Loss 3.01 -- Perplexity 20.32
+----- Step 17300 -- Loss 2.98 -- Perplexity 19.78
+----- Step 17400 -- Loss 3.12 -- Perplexity 22.65
+Epoch finished in 0:09:28.593895
+
+----- Epoch 15/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 17500 -- Loss 2.93 -- Perplexity 18.80
+----- Step 17600 -- Loss 2.89 -- Perplexity 18.01
+----- Step 17700 -- Loss 2.88 -- Perplexity 17.84
+----- Step 17800 -- Loss 2.88 -- Perplexity 17.77
+----- Step 17900 -- Loss 2.93 -- Perplexity 18.70
+----- Step 18000 -- Loss 2.88 -- Perplexity 17.73
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 18100 -- Loss 2.93 -- Perplexity 18.70
+----- Step 18200 -- Loss 3.02 -- Perplexity 20.51
+----- Step 18300 -- Loss 2.89 -- Perplexity 18.06
+----- Step 18400 -- Loss 2.92 -- Perplexity 18.48
+----- Step 18500 -- Loss 2.96 -- Perplexity 19.33
+----- Step 18600 -- Loss 2.91 -- Perplexity 18.28
+----- Step 18700 -- Loss 2.94 -- Perplexity 18.95
+Epoch finished in 0:09:33.485452
+
+----- Epoch 16/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 18800 -- Loss 2.85 -- Perplexity 17.27
+----- Step 18900 -- Loss 2.83 -- Perplexity 16.87
+----- Step 19000 -- Loss 2.82 -- Perplexity 16.77
+----- Step 19100 -- Loss 2.95 -- Perplexity 19.06
+----- Step 19200 -- Loss 2.86 -- Perplexity 17.45
+----- Step 19300 -- Loss 2.76 -- Perplexity 15.76
+----- Step 19400 -- Loss 3.00 -- Perplexity 20.00
+----- Step 19500 -- Loss 2.91 -- Perplexity 18.28
+----- Step 19600 -- Loss 3.01 -- Perplexity 20.39
+----- Step 19700 -- Loss 2.97 -- Perplexity 19.52
+----- Step 19800 -- Loss 2.99 -- Perplexity 19.98
+----- Step 19900 -- Loss 2.78 -- Perplexity 16.13
+Epoch finished in 0:09:30.229694
+
+----- Epoch 17/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 20000 -- Loss 2.80 -- Perplexity 16.45
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 20100 -- Loss 2.79 -- Perplexity 16.35
+----- Step 20200 -- Loss 2.76 -- Perplexity 15.80
+----- Step 20300 -- Loss 2.87 -- Perplexity 17.55
+----- Step 20400 -- Loss 2.86 -- Perplexity 17.44
+----- Step 20500 -- Loss 2.85 -- Perplexity 17.33
+----- Step 20600 -- Loss 2.84 -- Perplexity 17.14
+----- Step 20700 -- Loss 3.02 -- Perplexity 20.49
+----- Step 20800 -- Loss 2.90 -- Perplexity 18.22
+----- Step 20900 -- Loss 2.87 -- Perplexity 17.66
+----- Step 21000 -- Loss 2.86 -- Perplexity 17.45
+----- Step 21100 -- Loss 2.89 -- Perplexity 18.05
+----- Step 21200 -- Loss 2.96 -- Perplexity 19.30
+Epoch finished in 0:09:31.131458
+
+----- Epoch 18/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 21300 -- Loss 2.81 -- Perplexity 16.66
+----- Step 21400 -- Loss 2.80 -- Perplexity 16.41
+----- Step 21500 -- Loss 2.98 -- Perplexity 19.60
+----- Step 21600 -- Loss 2.83 -- Perplexity 16.95
+----- Step 21700 -- Loss 2.78 -- Perplexity 16.20
+----- Step 21800 -- Loss 2.92 -- Perplexity 18.60
+----- Step 21900 -- Loss 2.88 -- Perplexity 17.89
+----- Step 22000 -- Loss 2.84 -- Perplexity 17.08
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 22100 -- Loss 2.80 -- Perplexity 16.43
+----- Step 22200 -- Loss 2.85 -- Perplexity 17.31
+----- Step 22300 -- Loss 2.80 -- Perplexity 16.48
+----- Step 22400 -- Loss 3.00 -- Perplexity 20.04
+Epoch finished in 0:09:35.764783
+
+----- Epoch 19/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 22500 -- Loss 2.87 -- Perplexity 17.72
+----- Step 22600 -- Loss 2.73 -- Perplexity 15.39
+----- Step 22700 -- Loss 2.77 -- Perplexity 15.98
+----- Step 22800 -- Loss 2.84 -- Perplexity 17.09
+----- Step 22900 -- Loss 2.69 -- Perplexity 14.78
+----- Step 23000 -- Loss 2.82 -- Perplexity 16.82
+----- Step 23100 -- Loss 2.77 -- Perplexity 15.90
+----- Step 23200 -- Loss 2.74 -- Perplexity 15.44
+----- Step 23300 -- Loss 2.77 -- Perplexity 15.89
+----- Step 23400 -- Loss 2.67 -- Perplexity 14.43
+----- Step 23500 -- Loss 2.81 -- Perplexity 16.56
+----- Step 23600 -- Loss 2.76 -- Perplexity 15.72
+----- Step 23700 -- Loss 2.80 -- Perplexity 16.50
+Epoch finished in 0:09:36.971538
+
+----- Epoch 20/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 23800 -- Loss 2.77 -- Perplexity 15.92
+----- Step 23900 -- Loss 2.69 -- Perplexity 14.69
+----- Step 24000 -- Loss 2.69 -- Perplexity 14.77
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 24100 -- Loss 2.76 -- Perplexity 15.81
+----- Step 24200 -- Loss 2.71 -- Perplexity 15.04
+----- Step 24300 -- Loss 2.90 -- Perplexity 18.25
+----- Step 24400 -- Loss 2.79 -- Perplexity 16.34
+----- Step 24500 -- Loss 2.80 -- Perplexity 16.49
+----- Step 24600 -- Loss 2.62 -- Perplexity 13.68
+----- Step 24700 -- Loss 2.72 -- Perplexity 15.24
+----- Step 24800 -- Loss 2.80 -- Perplexity 16.51
+----- Step 24900 -- Loss 2.68 -- Perplexity 14.56
+Epoch finished in 0:09:35.573988
+
+----- Epoch 21/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 25000 -- Loss 2.62 -- Perplexity 13.79
+----- Step 25100 -- Loss 2.70 -- Perplexity 14.86
+----- Step 25200 -- Loss 2.68 -- Perplexity 14.63
+----- Step 25300 -- Loss 2.74 -- Perplexity 15.50
+----- Step 25400 -- Loss 2.70 -- Perplexity 14.95
+----- Step 25500 -- Loss 2.76 -- Perplexity 15.85
+----- Step 25600 -- Loss 2.64 -- Perplexity 13.98
+----- Step 25700 -- Loss 2.73 -- Perplexity 15.41
+----- Step 25800 -- Loss 2.78 -- Perplexity 16.05
+----- Step 25900 -- Loss 2.81 -- Perplexity 16.62
+----- Step 26000 -- Loss 2.70 -- Perplexity 14.90
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 26100 -- Loss 2.82 -- Perplexity 16.83
+----- Step 26200 -- Loss 2.72 -- Perplexity 15.22
+Epoch finished in 0:09:35.517887
+
+----- Epoch 22/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 26300 -- Loss 2.70 -- Perplexity 14.81
+----- Step 26400 -- Loss 2.65 -- Perplexity 14.15
+----- Step 26500 -- Loss 2.70 -- Perplexity 14.82
+----- Step 26600 -- Loss 2.67 -- Perplexity 14.46
+----- Step 26700 -- Loss 2.65 -- Perplexity 14.19
+----- Step 26800 -- Loss 2.61 -- Perplexity 13.65
+----- Step 26900 -- Loss 2.66 -- Perplexity 14.35
+----- Step 27000 -- Loss 2.72 -- Perplexity 15.17
+----- Step 27100 -- Loss 2.72 -- Perplexity 15.16
+----- Step 27200 -- Loss 2.79 -- Perplexity 16.35
+----- Step 27300 -- Loss 2.68 -- Perplexity 14.62
+----- Step 27400 -- Loss 2.71 -- Perplexity 15.10
+Epoch finished in 0:09:31.372735
+
+----- Epoch 23/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 27500 -- Loss 2.51 -- Perplexity 12.27
+----- Step 27600 -- Loss 2.74 -- Perplexity 15.55
+----- Step 27700 -- Loss 2.67 -- Perplexity 14.37
+----- Step 27800 -- Loss 2.61 -- Perplexity 13.64
+----- Step 27900 -- Loss 2.56 -- Perplexity 12.97
+----- Step 28000 -- Loss 2.68 -- Perplexity 14.66
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 28100 -- Loss 2.72 -- Perplexity 15.15
+----- Step 28200 -- Loss 2.62 -- Perplexity 13.77
+----- Step 28300 -- Loss 2.72 -- Perplexity 15.13
+----- Step 28400 -- Loss 2.64 -- Perplexity 13.95
+----- Step 28500 -- Loss 2.62 -- Perplexity 13.79
+----- Step 28600 -- Loss 2.53 -- Perplexity 12.56
+----- Step 28700 -- Loss 2.61 -- Perplexity 13.63
+Epoch finished in 0:09:34.841558
+
+----- Epoch 24/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 28800 -- Loss 2.51 -- Perplexity 12.35
+----- Step 28900 -- Loss 2.58 -- Perplexity 13.23
+----- Step 29000 -- Loss 2.59 -- Perplexity 13.37
+----- Step 29100 -- Loss 2.52 -- Perplexity 12.46
+----- Step 29200 -- Loss 2.49 -- Perplexity 12.03
+----- Step 29300 -- Loss 2.53 -- Perplexity 12.54
+----- Step 29400 -- Loss 2.58 -- Perplexity 13.20
+----- Step 29500 -- Loss 2.63 -- Perplexity 13.83
+----- Step 29600 -- Loss 2.62 -- Perplexity 13.77
+----- Step 29700 -- Loss 2.72 -- Perplexity 15.13
+----- Step 29800 -- Loss 2.75 -- Perplexity 15.66
+----- Step 29900 -- Loss 2.58 -- Perplexity 13.25
+Epoch finished in 0:09:40.404939
+
+----- Epoch 25/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 30000 -- Loss 2.58 -- Perplexity 13.17
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 30100 -- Loss 2.51 -- Perplexity 12.34
+----- Step 30200 -- Loss 2.65 -- Perplexity 14.09
+----- Step 30300 -- Loss 2.66 -- Perplexity 14.23
+----- Step 30400 -- Loss 2.48 -- Perplexity 11.98
+----- Step 30500 -- Loss 2.62 -- Perplexity 13.71
+----- Step 30600 -- Loss 2.58 -- Perplexity 13.22
+----- Step 30700 -- Loss 2.62 -- Perplexity 13.77
+----- Step 30800 -- Loss 2.61 -- Perplexity 13.57
+----- Step 30900 -- Loss 2.75 -- Perplexity 15.66
+----- Step 31000 -- Loss 2.53 -- Perplexity 12.60
+----- Step 31100 -- Loss 2.53 -- Perplexity 12.53
+----- Step 31200 -- Loss 2.60 -- Perplexity 13.47
+Epoch finished in 0:09:52.103898
+
+----- Epoch 26/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 31300 -- Loss 2.36 -- Perplexity 10.55
+----- Step 31400 -- Loss 2.59 -- Perplexity 13.33
+----- Step 31500 -- Loss 2.48 -- Perplexity 11.91
+----- Step 31600 -- Loss 2.53 -- Perplexity 12.51
+----- Step 31700 -- Loss 2.56 -- Perplexity 12.93
+----- Step 31800 -- Loss 2.52 -- Perplexity 12.48
+----- Step 31900 -- Loss 2.63 -- Perplexity 13.88
+----- Step 32000 -- Loss 2.76 -- Perplexity 15.85
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 32100 -- Loss 2.59 -- Perplexity 13.36
+----- Step 32200 -- Loss 2.59 -- Perplexity 13.27
+----- Step 32300 -- Loss 2.63 -- Perplexity 13.85
+----- Step 32400 -- Loss 2.62 -- Perplexity 13.75
+Epoch finished in 0:09:46.890376
+
+----- Epoch 27/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 32500 -- Loss 2.60 -- Perplexity 13.42
+----- Step 32600 -- Loss 2.43 -- Perplexity 11.37
+----- Step 32700 -- Loss 2.56 -- Perplexity 12.87
+----- Step 32800 -- Loss 2.58 -- Perplexity 13.21
+----- Step 32900 -- Loss 2.57 -- Perplexity 13.09
+----- Step 33000 -- Loss 2.48 -- Perplexity 11.98
+----- Step 33100 -- Loss 2.58 -- Perplexity 13.26
+----- Step 33200 -- Loss 2.46 -- Perplexity 11.74
+----- Step 33300 -- Loss 2.55 -- Perplexity 12.87
+----- Step 33400 -- Loss 2.55 -- Perplexity 12.85
+----- Step 33500 -- Loss 2.61 -- Perplexity 13.63
+----- Step 33600 -- Loss 2.48 -- Perplexity 11.94
+Epoch finished in 0:09:42.896702
+
+----- Epoch 28/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 33700 -- Loss 2.34 -- Perplexity 10.38
+----- Step 33800 -- Loss 2.45 -- Perplexity 11.57
+----- Step 33900 -- Loss 2.55 -- Perplexity 12.83
+----- Step 34000 -- Loss 2.64 -- Perplexity 14.01
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 34100 -- Loss 2.34 -- Perplexity 10.42
+----- Step 34200 -- Loss 2.48 -- Perplexity 11.94
+----- Step 34300 -- Loss 2.56 -- Perplexity 12.92
+----- Step 34400 -- Loss 2.52 -- Perplexity 12.39
+----- Step 34500 -- Loss 2.50 -- Perplexity 12.16
+----- Step 34600 -- Loss 2.54 -- Perplexity 12.62
+----- Step 34700 -- Loss 2.43 -- Perplexity 11.35
+----- Step 34800 -- Loss 2.51 -- Perplexity 12.33
+----- Step 34900 -- Loss 2.49 -- Perplexity 12.04
+Epoch finished in 0:09:47.903043
+
+----- Epoch 29/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 35000 -- Loss 2.42 -- Perplexity 11.23
+----- Step 35100 -- Loss 2.53 -- Perplexity 12.61
+----- Step 35200 -- Loss 2.49 -- Perplexity 12.09
+----- Step 35300 -- Loss 2.60 -- Perplexity 13.43
+----- Step 35400 -- Loss 2.53 -- Perplexity 12.49
+----- Step 35500 -- Loss 2.50 -- Perplexity 12.22
+----- Step 35600 -- Loss 2.50 -- Perplexity 12.21
+----- Step 35700 -- Loss 2.43 -- Perplexity 11.39
+----- Step 35800 -- Loss 2.41 -- Perplexity 11.16
+----- Step 35900 -- Loss 2.57 -- Perplexity 13.12
+----- Step 36000 -- Loss 2.70 -- Perplexity 14.89
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 36100 -- Loss 2.39 -- Perplexity 10.87
+Epoch finished in 0:09:47.818376
+
+----- Epoch 30/30 ; (lr=0.001) -----
+Shuffling the dataset...
+----- Step 36200 -- Loss 2.48 -- Perplexity 11.99
+----- Step 36300 -- Loss 2.38 -- Perplexity 10.79
+----- Step 36400 -- Loss 2.42 -- Perplexity 11.20
+----- Step 36500 -- Loss 2.42 -- Perplexity 11.23
+----- Step 36600 -- Loss 2.46 -- Perplexity 11.66
+----- Step 36700 -- Loss 2.57 -- Perplexity 13.07
+----- Step 36800 -- Loss 2.47 -- Perplexity 11.81
+----- Step 36900 -- Loss 2.43 -- Perplexity 11.37
+----- Step 37000 -- Loss 2.36 -- Perplexity 10.61
+----- Step 37100 -- Loss 2.50 -- Perplexity 12.19
+----- Step 37200 -- Loss 2.46 -- Perplexity 11.67
+----- Step 37300 -- Loss 2.53 -- Perplexity 12.58
+----- Step 37400 -- Loss 2.49 -- Perplexity 12.04
+
+----- Epoch 1/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 37500 -- Loss 2.29 -- Perplexity 9.90
+----- Step 37600 -- Loss 2.28 -- Perplexity 9.75
+----- Step 37700 -- Loss 2.32 -- Perplexity 10.17
+----- Step 37800 -- Loss 2.38 -- Perplexity 10.84
+----- Step 37900 -- Loss 2.44 -- Perplexity 11.47
+----- Step 38000 -- Loss 2.33 -- Perplexity 10.24
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 38100 -- Loss 2.42 -- Perplexity 11.24
+----- Step 38200 -- Loss 2.35 -- Perplexity 10.52
+----- Step 38300 -- Loss 2.38 -- Perplexity 10.83
+----- Step 38400 -- Loss 2.37 -- Perplexity 10.74
+----- Step 38500 -- Loss 2.38 -- Perplexity 10.76
+----- Step 38600 -- Loss 2.32 -- Perplexity 10.18
+Epoch finished in 0:09:49.310848
+
+----- Epoch 2/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 38700 -- Loss 2.33 -- Perplexity 10.26
+----- Step 38800 -- Loss 2.19 -- Perplexity 8.94
+----- Step 38900 -- Loss 2.20 -- Perplexity 9.02
+----- Step 39000 -- Loss 2.28 -- Perplexity 9.80
+----- Step 39100 -- Loss 2.29 -- Perplexity 9.92
+----- Step 39200 -- Loss 2.34 -- Perplexity 10.37
+----- Step 39300 -- Loss 2.37 -- Perplexity 10.68
+----- Step 39400 -- Loss 2.41 -- Perplexity 11.10
+----- Step 39500 -- Loss 2.22 -- Perplexity 9.23
+----- Step 39600 -- Loss 2.43 -- Perplexity 11.38
+----- Step 39700 -- Loss 2.33 -- Perplexity 10.26
+----- Step 39800 -- Loss 2.43 -- Perplexity 11.31
+----- Step 39900 -- Loss 2.36 -- Perplexity 10.59
+Epoch finished in 0:09:42.474939
+
+----- Epoch 3/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 40000 -- Loss 2.22 -- Perplexity 9.23
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 40100 -- Loss 2.42 -- Perplexity 11.28
+----- Step 40200 -- Loss 2.34 -- Perplexity 10.36
+----- Step 40300 -- Loss 2.39 -- Perplexity 10.88
+----- Step 40400 -- Loss 2.33 -- Perplexity 10.28
+----- Step 40500 -- Loss 2.48 -- Perplexity 11.91
+----- Step 40600 -- Loss 2.46 -- Perplexity 11.73
+----- Step 40700 -- Loss 2.29 -- Perplexity 9.84
+----- Step 40800 -- Loss 2.29 -- Perplexity 9.90
+----- Step 40900 -- Loss 2.23 -- Perplexity 9.32
+----- Step 41000 -- Loss 2.36 -- Perplexity 10.54
+----- Step 41100 -- Loss 2.32 -- Perplexity 10.16
+Epoch finished in 0:09:36.018199
+
+----- Epoch 4/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 41200 -- Loss 2.27 -- Perplexity 9.66
+----- Step 41300 -- Loss 2.25 -- Perplexity 9.50
+----- Step 41400 -- Loss 2.30 -- Perplexity 10.02
+----- Step 41500 -- Loss 2.20 -- Perplexity 9.05
+----- Step 41600 -- Loss 2.35 -- Perplexity 10.43
+----- Step 41700 -- Loss 2.25 -- Perplexity 9.45
+----- Step 41800 -- Loss 2.44 -- Perplexity 11.45
+----- Step 41900 -- Loss 2.35 -- Perplexity 10.44
+----- Step 42000 -- Loss 2.27 -- Perplexity 9.71
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 42100 -- Loss 2.33 -- Perplexity 10.23
+----- Step 42200 -- Loss 2.32 -- Perplexity 10.21
+----- Step 42300 -- Loss 2.33 -- Perplexity 10.24
+----- Step 42400 -- Loss 2.32 -- Perplexity 10.21
+Epoch finished in 0:09:50.439283
+
+----- Epoch 5/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 42500 -- Loss 2.03 -- Perplexity 7.59
+----- Step 42600 -- Loss 2.27 -- Perplexity 9.72
+----- Step 42700 -- Loss 2.16 -- Perplexity 8.63
+----- Step 42800 -- Loss 2.22 -- Perplexity 9.25
+----- Step 42900 -- Loss 2.35 -- Perplexity 10.43
+----- Step 43000 -- Loss 2.32 -- Perplexity 10.22
+----- Step 43100 -- Loss 2.35 -- Perplexity 10.44
+----- Step 43200 -- Loss 2.20 -- Perplexity 9.02
+----- Step 43300 -- Loss 2.33 -- Perplexity 10.24
+----- Step 43400 -- Loss 2.34 -- Perplexity 10.36
+----- Step 43500 -- Loss 2.42 -- Perplexity 11.21
+----- Step 43600 -- Loss 2.27 -- Perplexity 9.69
+Epoch finished in 0:09:30.500037
+
+----- Epoch 6/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 43700 -- Loss 2.19 -- Perplexity 8.97
+----- Step 43800 -- Loss 2.28 -- Perplexity 9.74
+----- Step 43900 -- Loss 2.19 -- Perplexity 8.97
+----- Step 44000 -- Loss 2.20 -- Perplexity 9.03
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 44100 -- Loss 2.38 -- Perplexity 10.81
+----- Step 44200 -- Loss 2.32 -- Perplexity 10.15
+----- Step 44300 -- Loss 2.35 -- Perplexity 10.49
+----- Step 44400 -- Loss 2.22 -- Perplexity 9.20
+----- Step 44500 -- Loss 2.26 -- Perplexity 9.57
+----- Step 44600 -- Loss 2.39 -- Perplexity 10.94
+----- Step 44700 -- Loss 2.38 -- Perplexity 10.84
+----- Step 44800 -- Loss 2.24 -- Perplexity 9.41
+----- Step 44900 -- Loss 2.28 -- Perplexity 9.81
+Epoch finished in 0:09:32.356665
+
+----- Epoch 7/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 45000 -- Loss 2.28 -- Perplexity 9.80
+----- Step 45100 -- Loss 2.19 -- Perplexity 8.96
+----- Step 45200 -- Loss 2.31 -- Perplexity 10.09
+----- Step 45300 -- Loss 2.21 -- Perplexity 9.08
+----- Step 45400 -- Loss 2.18 -- Perplexity 8.87
+----- Step 45500 -- Loss 2.36 -- Perplexity 10.59
+----- Step 45600 -- Loss 2.43 -- Perplexity 11.40
+----- Step 45700 -- Loss 2.30 -- Perplexity 10.01
+----- Step 45800 -- Loss 2.16 -- Perplexity 8.65
+----- Step 45900 -- Loss 2.28 -- Perplexity 9.78
+----- Step 46000 -- Loss 2.37 -- Perplexity 10.70
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 46100 -- Loss 2.31 -- Perplexity 10.04
+Epoch finished in 0:09:28.416888
+
+----- Epoch 8/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 46200 -- Loss 2.24 -- Perplexity 9.36
+----- Step 46300 -- Loss 2.26 -- Perplexity 9.62
+----- Step 46400 -- Loss 2.21 -- Perplexity 9.14
+----- Step 46500 -- Loss 2.24 -- Perplexity 9.38
+----- Step 46600 -- Loss 2.14 -- Perplexity 8.50
+----- Step 46700 -- Loss 2.22 -- Perplexity 9.19
+----- Step 46800 -- Loss 2.21 -- Perplexity 9.15
+----- Step 46900 -- Loss 2.27 -- Perplexity 9.71
+----- Step 47000 -- Loss 2.12 -- Perplexity 8.36
+----- Step 47100 -- Loss 2.24 -- Perplexity 9.40
+----- Step 47200 -- Loss 2.33 -- Perplexity 10.28
+----- Step 47300 -- Loss 2.19 -- Perplexity 8.97
+----- Step 47400 -- Loss 2.18 -- Perplexity 8.87
+Epoch finished in 0:09:23.270176
+
+----- Epoch 9/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 47500 -- Loss 2.27 -- Perplexity 9.65
+----- Step 47600 -- Loss 2.09 -- Perplexity 8.06
+----- Step 47700 -- Loss 2.19 -- Perplexity 8.91
+----- Step 47800 -- Loss 2.20 -- Perplexity 9.04
+----- Step 47900 -- Loss 2.18 -- Perplexity 8.83
+----- Step 48000 -- Loss 2.19 -- Perplexity 8.90
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 48100 -- Loss 2.24 -- Perplexity 9.35
+----- Step 48200 -- Loss 2.20 -- Perplexity 8.99
+----- Step 48300 -- Loss 2.08 -- Perplexity 8.03
+----- Step 48400 -- Loss 2.37 -- Perplexity 10.72
+----- Step 48500 -- Loss 2.18 -- Perplexity 8.86
+----- Step 48600 -- Loss 2.27 -- Perplexity 9.67
+Epoch finished in 0:09:26.986218
+
+----- Epoch 10/10 ; (lr=0.0005) -----
+Shuffling the dataset...
+----- Step 48700 -- Loss 2.27 -- Perplexity 9.69
+----- Step 48800 -- Loss 2.19 -- Perplexity 8.95
+----- Step 48900 -- Loss 2.25 -- Perplexity 9.46
+----- Step 49000 -- Loss 2.14 -- Perplexity 8.51
+----- Step 49100 -- Loss 2.18 -- Perplexity 8.85
+----- Step 49200 -- Loss 2.16 -- Perplexity 8.64
+----- Step 49300 -- Loss 2.17 -- Perplexity 8.76
+----- Step 49400 -- Loss 2.22 -- Perplexity 9.22
+----- Step 49500 -- Loss 2.35 -- Perplexity 10.44
+----- Step 49600 -- Loss 2.37 -- Perplexity 10.66
+----- Step 49700 -- Loss 2.20 -- Perplexity 9.02
+----- Step 49800 -- Loss 2.15 -- Perplexity 8.57
+----- Step 49900 -- Loss 2.21 -- Perplexity 9.10
+Epoch finished in 0:09:30.197400
+
+----- Epoch 1/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+2019-05-13 23:25:28.805831: I tensorflow/stream_executor/dso_loader.cc:152] successfully opened CUDA library cublas64_90.dll locally
+----- Step 50000 -- Loss 2.10 -- Perplexity 8.13
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 50100 -- Loss 2.18 -- Perplexity 8.88
+----- Step 50200 -- Loss 2.10 -- Perplexity 8.15
+----- Step 50300 -- Loss 2.11 -- Perplexity 8.21
+----- Step 50400 -- Loss 2.19 -- Perplexity 8.95
+----- Step 50500 -- Loss 2.21 -- Perplexity 9.08
+----- Step 50600 -- Loss 2.02 -- Perplexity 7.55
+----- Step 50700 -- Loss 2.26 -- Perplexity 9.62
+----- Step 50800 -- Loss 2.08 -- Perplexity 8.04
+----- Step 50900 -- Loss 2.21 -- Perplexity 9.09
+----- Step 51000 -- Loss 2.08 -- Perplexity 8.01
+----- Step 51100 -- Loss 2.15 -- Perplexity 8.59
+Epoch finished in 0:09:45.940003
+
+----- Epoch 2/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 51200 -- Loss 2.12 -- Perplexity 8.34
+----- Step 51300 -- Loss 1.95 -- Perplexity 7.03
+----- Step 51400 -- Loss 2.20 -- Perplexity 9.05
+----- Step 51500 -- Loss 2.04 -- Perplexity 7.69
+----- Step 51600 -- Loss 2.18 -- Perplexity 8.85
+----- Step 51700 -- Loss 2.04 -- Perplexity 7.70
+----- Step 51800 -- Loss 2.01 -- Perplexity 7.49
+----- Step 51900 -- Loss 2.14 -- Perplexity 8.49
+----- Step 52000 -- Loss 2.11 -- Perplexity 8.21
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 52100 -- Loss 2.27 -- Perplexity 9.69
+----- Step 52200 -- Loss 2.23 -- Perplexity 9.32
+----- Step 52300 -- Loss 2.17 -- Perplexity 8.72
+----- Step 52400 -- Loss 2.18 -- Perplexity 8.82
+Epoch finished in 0:09:46.397975
+
+----- Epoch 3/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 52500 -- Loss 2.08 -- Perplexity 8.00
+----- Step 52600 -- Loss 2.14 -- Perplexity 8.51
+----- Step 52700 -- Loss 2.11 -- Perplexity 8.24
+----- Step 52800 -- Loss 2.24 -- Perplexity 9.35
+----- Step 52900 -- Loss 2.09 -- Perplexity 8.07
+----- Step 53000 -- Loss 2.00 -- Perplexity 7.37
+----- Step 53100 -- Loss 2.07 -- Perplexity 7.92
+----- Step 53200 -- Loss 2.04 -- Perplexity 7.70
+----- Step 53300 -- Loss 2.08 -- Perplexity 7.97
+----- Step 53400 -- Loss 2.08 -- Perplexity 8.00
+----- Step 53500 -- Loss 2.15 -- Perplexity 8.54
+----- Step 53600 -- Loss 2.13 -- Perplexity 8.43
+Epoch finished in 0:09:40.166387
+
+----- Epoch 4/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 53700 -- Loss 2.12 -- Perplexity 8.33
+----- Step 53800 -- Loss 2.09 -- Perplexity 8.06
+----- Step 53900 -- Loss 2.21 -- Perplexity 9.08
+----- Step 54000 -- Loss 2.09 -- Perplexity 8.05
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 54100 -- Loss 2.09 -- Perplexity 8.07
+----- Step 54200 -- Loss 2.24 -- Perplexity 9.42
+----- Step 54300 -- Loss 2.09 -- Perplexity 8.12
+----- Step 54400 -- Loss 2.19 -- Perplexity 8.98
+----- Step 54500 -- Loss 2.08 -- Perplexity 8.04
+----- Step 54600 -- Loss 1.96 -- Perplexity 7.07
+----- Step 54700 -- Loss 2.05 -- Perplexity 7.81
+----- Step 54800 -- Loss 2.18 -- Perplexity 8.88
+----- Step 54900 -- Loss 2.12 -- Perplexity 8.30
+Epoch finished in 0:09:27.694509
+
+----- Epoch 5/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 55000 -- Loss 1.99 -- Perplexity 7.35
+----- Step 55100 -- Loss 1.99 -- Perplexity 7.34
+----- Step 55200 -- Loss 2.16 -- Perplexity 8.67
+----- Step 55300 -- Loss 2.14 -- Perplexity 8.47
+----- Step 55400 -- Loss 2.21 -- Perplexity 9.11
+----- Step 55500 -- Loss 2.14 -- Perplexity 8.46
+----- Step 55600 -- Loss 2.12 -- Perplexity 8.32
+----- Step 55700 -- Loss 2.18 -- Perplexity 8.84
+----- Step 55800 -- Loss 2.12 -- Perplexity 8.35
+----- Step 55900 -- Loss 2.16 -- Perplexity 8.64
+----- Step 56000 -- Loss 2.06 -- Perplexity 7.85
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 56100 -- Loss 2.26 -- Perplexity 9.62
+Epoch finished in 0:09:25.628909
+
+----- Epoch 6/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 56200 -- Loss 2.17 -- Perplexity 8.72
+----- Step 56300 -- Loss 2.20 -- Perplexity 9.05
+----- Step 56400 -- Loss 2.14 -- Perplexity 8.51
+----- Step 56500 -- Loss 2.15 -- Perplexity 8.58
+----- Step 56600 -- Loss 2.11 -- Perplexity 8.24
+----- Step 56700 -- Loss 2.12 -- Perplexity 8.31
+----- Step 56800 -- Loss 2.07 -- Perplexity 7.92
+----- Step 56900 -- Loss 2.08 -- Perplexity 7.97
+----- Step 57000 -- Loss 2.20 -- Perplexity 9.02
+----- Step 57100 -- Loss 2.03 -- Perplexity 7.61
+----- Step 57200 -- Loss 2.11 -- Perplexity 8.27
+----- Step 57300 -- Loss 2.09 -- Perplexity 8.08
+----- Step 57400 -- Loss 2.15 -- Perplexity 8.59
+Epoch finished in 0:09:21.704662
+
+----- Epoch 7/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 57500 -- Loss 2.28 -- Perplexity 9.77
+----- Step 57600 -- Loss 2.13 -- Perplexity 8.43
+----- Step 57700 -- Loss 2.13 -- Perplexity 8.37
+----- Step 57800 -- Loss 2.08 -- Perplexity 7.98
+----- Step 57900 -- Loss 2.05 -- Perplexity 7.77
+----- Step 58000 -- Loss 2.16 -- Perplexity 8.67
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 58100 -- Loss 2.11 -- Perplexity 8.29
+----- Step 58200 -- Loss 2.20 -- Perplexity 9.06
+----- Step 58300 -- Loss 2.18 -- Perplexity 8.89
+----- Step 58400 -- Loss 2.19 -- Perplexity 8.97
+----- Step 58500 -- Loss 2.12 -- Perplexity 8.32
+----- Step 58600 -- Loss 2.07 -- Perplexity 7.93
+Epoch finished in 0:09:25.825500
+
+----- Epoch 8/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 58700 -- Loss 2.13 -- Perplexity 8.40
+----- Step 58800 -- Loss 2.06 -- Perplexity 7.83
+----- Step 58900 -- Loss 2.02 -- Perplexity 7.52
+----- Step 59000 -- Loss 2.06 -- Perplexity 7.87
+----- Step 59100 -- Loss 2.09 -- Perplexity 8.09
+----- Step 59200 -- Loss 2.15 -- Perplexity 8.60
+----- Step 59300 -- Loss 2.14 -- Perplexity 8.49
+----- Step 59400 -- Loss 2.05 -- Perplexity 7.73
+----- Step 59500 -- Loss 2.00 -- Perplexity 7.39
+----- Step 59600 -- Loss 2.19 -- Perplexity 8.92
+----- Step 59700 -- Loss 2.20 -- Perplexity 9.03
+----- Step 59800 -- Loss 2.17 -- Perplexity 8.74
+----- Step 59900 -- Loss 2.20 -- Perplexity 9.01
+Epoch finished in 0:09:23.551553
+
+----- Epoch 9/10 ; (lr=0.0001) -----
+Shuffling the dataset...
+----- Step 60000 -- Loss 2.10 -- Perplexity 8.13
+Checkpoint reached: saving model (don't stop the run)...
+Model saved.
+----- Step 60100 -- Loss 2.25 -- Perplexity 9.50
+----- Step 60200 -- Loss 2.12 -- Perplexity 8.34
+----- Step 60300 -- Loss 2.17 -- Perplexity 8.75
+----- Step 60400 -- Loss 2.19 -- Perplexity 8.91
+----- Step 60500 -- Loss 2.04 -- Perplexity 7.72
+----- Step 60600 -- Loss 2.08 -- Perplexity 7.97
+----- Step 60700 -- Loss 2.15 -- Perplexity 8.60
+----- Step 60800 -- Loss 2.16 -- Perplexity 8.68
+----- Step 60900 -- Loss 2.16 -- Perplexity 8.70
+----- Step 61000 -- Loss 2.14 -- Perplexity 8.52
+----- Step 61100 -- Loss 2.19 -- Perplexity 8.96
+Epoch finished in 0:10:17.769707
